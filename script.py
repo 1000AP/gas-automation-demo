@@ -1,7 +1,7 @@
 #%% load libraries
 import pandas as pd
 from datawrapper import Datawrapper
-
+ 
 #global variables
 CHART_ID = 'v8i3G'
 
